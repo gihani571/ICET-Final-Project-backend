@@ -1,4 +1,4 @@
-package edu.icet.repository.impl;
+ package edu.icet.service.impl;
 
 import edu.icet.dto.Customer;
 import edu.icet.entity.CustomerEntity;
